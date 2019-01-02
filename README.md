@@ -1,2 +1,2 @@
-# issues
-Issue tracker for RST
+# Issue tracker
+Issue tracker for products and solutions of RST
